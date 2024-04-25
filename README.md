@@ -1,0 +1,2 @@
+# BookStore-Manager
+JavaScript project
